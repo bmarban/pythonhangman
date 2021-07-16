@@ -1,0 +1,17 @@
+
+    Thank you for playing Hangman johhnyr!
+    
+    Your word was: birthday
+    You had 6 tries left!
+    You won the game. 
+    
+    Your old stats were:
+        Wins: 0
+        Losses: 0
+    
+    Your new stats are: 
+        Wins: 1
+        Losses: 0
+    
+    Hope to see you next time!
+    
